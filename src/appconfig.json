@@ -1,0 +1,16 @@
+{
+	"appName": "Clock Display",
+	"description": "Clock display for seeing seconds/ms",
+	"appUrl": "./index.html",
+	"configUrl": "./appconfig.json",
+	"iconUrl": "https://runescape.wiki/w/File:Oak_clock.png",
+	"defaultWidth": 250,
+	"defaultHeight": 250,
+	"minWidth": 250,
+	"minHeight": 180,
+	"maxWidth": 1000,
+	"maxHeight": 1000,
+	"requestHandlers": [ ],
+	"activators": [	],
+	"permissions": "pixel"
+}
