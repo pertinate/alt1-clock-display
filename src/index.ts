@@ -32,7 +32,7 @@ const redraw = () => {
 
 setInterval(() => {
     redraw();
-}, 1);
+}, 100);
 
 //check if we are running inside alt1 by checking if the alt1 global exists
 if (window.alt1) {
