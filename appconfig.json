@@ -1,0 +1,16 @@
+{
+	"appName": "Clock Display",
+	"description": "Clock display for seeing seconds/ms",
+	"appUrl": "./index.html",
+	"configUrl": "./appconfig.json",
+	"iconUrl": "https://toppng.com/uploads/preview/clock-icon-11549400391pbvixkhmo1.png",
+	"defaultWidth": 300,
+	"defaultHeight": 50,
+	"minWidth": 300,
+	"minHeight": 50,
+	"maxWidth": 300,
+	"maxHeight": 50,
+	"requestHandlers": [ ],
+	"activators": [	],
+	"permissions": "pixel"
+}
